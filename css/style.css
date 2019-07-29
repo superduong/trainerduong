@@ -417,7 +417,7 @@ ul.callbacks_tabs.callbacks1_tabs {
     padding: 1em 0 0em;
 }
 .projects h3,.info h3,.tags h3,.gallery h3,.feature h3{
-	color:#000;
+	color:#66ccff;
 	font-size:1.8em;
 	font-weight:300;
 	padding: 0 0 0.7em;
@@ -895,12 +895,12 @@ a.just-do:hover {
   margin: 1.5em;
 }
 .single-top {
-  border-right: 1px solid #D5D3D3;
-  padding: 0 2% 0 0;
+  border-right: 6px solid #ff66cc;
+  padding: 0 12% 0 0;
 }
 .single-top, .single-in {
   float: left;
-  width: 47.9%;
+  width: 77.9%;
 }
 .single-in {
   padding: 0 0 0 2%;
